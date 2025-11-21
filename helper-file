@@ -1,0 +1,4 @@
+Initialise: git Initialise
+stage: git add .
+commit git commit -m "worked on my karibu website"
+push: git push 
